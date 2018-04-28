@@ -1,2 +1,2 @@
 # BootstrapLandingPage
-Created a front end design for a professional landing page using bootstrap
+A professional responsive landing page using bootstrap
